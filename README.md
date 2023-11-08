@@ -1,4 +1,4 @@
-Practo is the leading online doctor booking and telemedicine platform in India with over 50 million users. Recognizing the success and growth potential in this space, software development company Zipprr has developed a feature-rich <a href="https://zipprr.com/category/practo-clone/">Practo clone script</a> to help businesses launch their own online medical portals.
+Practo is the leading online doctor booking and telemedicine platform in India with over 50 million users. Recognizing the success and growth potential in this space, software development company Zipprr has developed a feature-rich <a href="https://zipprr.com/practo-clone/">Practo clone script</a> to help businesses launch their own online medical portals.
 
 <h2><b>Key Features</b></h2>
 
